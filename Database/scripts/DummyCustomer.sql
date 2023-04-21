@@ -1,0 +1,1 @@
+INSERT INTO customers VALUES (1062, "Dummy Klant", 1, 1, 1, 1, 1, 1, 1, 1, 1, "2000-01-01", 0, 0, 0, 0, "(000) 000-0000", "(000) 000-0000", 0, 0, "localhost", "localhost", "localhost", 0, 0, "PO 0", "localhost", 0, 1, "2000-01-01 00:00:00", "9999-12-31 23:59:59"); 

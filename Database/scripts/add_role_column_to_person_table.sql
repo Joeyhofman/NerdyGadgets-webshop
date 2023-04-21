@@ -1,0 +1,6 @@
+ALTER TABLE people
+ADD COLUMN roleID INT(11) NULL;
+
+ALTER TABLE people
+ADD CONSTRAINT fk_personrole_role
+FOREIGN KEY (roleID) REFERENCES roles(roleID);
